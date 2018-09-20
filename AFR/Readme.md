@@ -1,7 +1,6 @@
 AMAZON FINE FOOD REVIEWS
 
-I have used AMAZON FINE FOOD REVIEWS Dataset to filter data and simultaneously use word to vector technique to vizualize high dimension data in a low dimension
-Techniques to vecctorize includes 
+I have used AMAZON FINE FOOD REVIEWS Dataset to filter data and simultaneously used the following techniques yo convert  word to vector
 1) Bag of Words
 2) Tf-Idf
 3) Avg - W2V
