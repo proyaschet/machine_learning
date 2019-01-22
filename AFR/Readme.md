@@ -11,6 +11,12 @@ To vizualize high dimensionality data in low dimension I have used TSNE.
 In the first Notebook I have followed all the necesssary preprocessing technique which you can find in the Notebook as it is well commented and have used the sql file obtained from kaggle dataset
 After the preprocessing step I have saved the filtered data in the Final sqlite db.
 
+
+Logistic Regression
+1) Applied Logistic regression to classify the data based on the review wether it is a positive or negative dataset.
+2) Since the data is imbalanced I have used weighted method to built an unbiased model
+3) YOu can view the implementation in AFR-LR notebook
+
 Below you can find the link for the dataset
 
 1) database.sqlite
